@@ -1,0 +1,6 @@
+namespace: student00
+
+resources:
+  - api-deployment.yaml
+  - db-configMap.yaml
+  - mongo-depl.yaml
