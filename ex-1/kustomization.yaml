@@ -5,4 +5,4 @@ resources:
   - nginx-service.yaml
 
 commonLabels:
-  company: Evolvere
+  company: DRW
